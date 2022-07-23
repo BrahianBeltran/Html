@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html> 
+    <head>
+     <title> Ejercicio 02/02</title>
+    </head>
+    <body> 
+        <h1> ejercicio 02/02 formulario</h1>
+         
+         <tr>
+            <TH>Título</TH>
+            <TH>Autor</TH>
+            <TH>Año de publicación</TH>
+            <TH>Enlace a Amazon</TH>
+         </tr>
+          <br>
+         <tr>
+            <td>It's Not Summer </td>
+            <td>Jenny Han </td>
+            <td>5 Abril 2011</td>
+            <td><a href="https://www.amazon.com/Jenny-Han/dp/1416995560/ref=zg_sccl_2/134-1009805-8353226?pd_rd_w=19TOk&content-id=amzn1.sym.193afb92-0c19-4833-86f8-850b5ba40291&pf_rd_p=193afb92-0c19-4833-86f8-850b5ba40291&pf_rd_r=ZSCX3CKDV9P846XQYVKK&pd_rd_wg=dIyVM&pd_rd_r=c5df6167-c121-4121-ad2f-66a64416c599&pd_rd_i=1416995560&psc=1">click aqui</a>
+          </tr>
+         <br>
+         <tr>
+            <TH>Título</TH>
+            <TH>Autor</TH>
+            <TH>Año de publicación</TH>
+            <TH>Enlace a Amazon</TH>
+         </tr>
+         <br>
+          <tr>
+            <td>Where the Crawdads Sing</td>
+            <td>Delia Owens </td>
+            <td>30 Marzo 2021</td>
+            <td><a href="https://www.amazon.com/-/es/dp/0735219109/ref=s9_acsd_ri_bw_c2_x_0_i?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-10&pf_rd_r=ZSCX3CKDV9P846XQYVKK&pf_rd_t=101&pf_rd_p=ec39fcf1-9b05-4554-94c1-a6763108b92c&pf_rd_i=283155">click aqui</a>
+          </tr>
+           <br>
+         <tr>
+            <TH>Título</TH>
+            <TH>Autor</TH>
+            <TH>Año de publicación</TH>
+            <TH>Enlace a Amazon</TH>
+           </tr>
+          <br>
+          <tr>
+            <td>Where the Crawdads Sing</td>
+            <td>Delia Owens </td>
+            <td>30 Marzo 2021</td>
+            <td><a href="https://www.amazon.com/-/es/dp/0735219109/ref=s9_acsd_ri_bw_c2_x_0_i?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-10&pf_rd_r=ZSCX3CKDV9P846XQYVKK&pf_rd_t=101&pf_rd_p=ec39fcf1-9b05-4554-94c1-a6763108b92c&pf_rd_i=283155">click aqui</a>
+          </tr>
+    </body>
+
+
+
+
+</html>
