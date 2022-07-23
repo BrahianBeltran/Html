@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html> 
+    <head>
+     <title> Ejercicio 02</title>
+    </head>
+    <body> 
+        <h1> ejercicio 02 formulario</h1>
+        <div> 
+            <label for="nombre">nombre</label>
+            <input id="nombre">
+        </div>
+        <br>
+        <div> 
+            <label for=""edad">nombre</label>
+            <input id="nombre">
+        </div>
+        <br>
+        <div> 
+            <textarea for="frase-favorita">frase-favorita</textarea>
+        </div>
+        <br>
+        <div> 
+            <button type="reset" >enviar</button>
+            <button type="submit"> Reset</button>
+        </div>
+
+
